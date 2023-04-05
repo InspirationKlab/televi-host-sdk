@@ -1,3 +1,3 @@
-module televi_host_sdk
+module televi-host-sdk
 
 go 1.20
