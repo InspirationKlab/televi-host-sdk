@@ -1,3 +1,3 @@
-module televi-host-sdk
+module github.com/inspirationklab/televi-host-sdk
 
 go 1.20
